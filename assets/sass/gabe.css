@@ -40,10 +40,7 @@ h6 {
   display: inline-block; }
 
 .item:hover {
-  transform: scale(1.1); }
-  .item:hover .description {
-    visibility: visible;
-    opacity: 1; }
+    transform: scale(1.1); }
 
 .description {
   position: absolute;
